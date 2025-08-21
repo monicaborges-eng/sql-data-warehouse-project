@@ -42,9 +42,7 @@ Tudo gratuito!
 - **[SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads):** Servidor leve para hospedar seu banco de dados SQL.  
 - **[SQL Server Management Studio (SSMS)](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16):** Interface gráfica para gerenciar e interagir com bancos de dados.  
 - **[Repositório Git](https://github.com/):** Crie uma conta no GitHub e um repositório para gerenciar, versionar e colaborar no seu código.  
-- **[DrawIO](https://www.drawio.com/):** Criação de arquitetura de dados, modelos, fluxos e diagramas.  
-- **[Notion](https://www.notion.com/templates/sql-data-warehouse-project):** Template do projeto no Notion.  
-- **[Etapas do Projeto no Notion](https://thankful-pangolin-2ca.notion.site/SQL-Data-Warehouse-Project-16ed041640ef80489667cfe2f380b269?pvs=4):** Acesso a todas as fases e tarefas do projeto.  
+- **[DrawIO](https://www.drawio.com/):** Criação de arquitetura de dados, modelos, fluxos e diagramas.
 
 ---
 
